@@ -1,2 +1,3 @@
 # Employee-Attrition-Analysis
 ### Dataset taken from: https://www.kaggle.com/datasets/uditjain13/employee-attrition-and-hr-analytics-2026
+This project analyzes employee workforce data to identify patterns associated with employee attrition. The analysis examines differences across departments, job roles, as well as workload factors such as burnout, engagement, manager support, overtime, and compensation. This analysis is meant to serve as a starting point for further investigation into employee retention, since it identifies associations within the dataset and doesn't establish causal relationships from just the data alone. 
